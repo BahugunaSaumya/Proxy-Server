@@ -4,4 +4,7 @@ to run the code just compile using javac * .java \
 then run java Proxy\
 this should open show all the commands of the roxy server provided the proxy of the device has been turned on and diverted to the \ 
 host: localhost \
-port: 50000     
+port: 50000 \    
+
+
+Please refer to HTTP Proxy report for descriptive understanding
